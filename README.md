@@ -1,7 +1,9 @@
 # primecrypt
+
 This is a Python-based Caesar Cipher toolkit built for cybersecurity encryption and decryption tasks.
 
-By the way, welcome to my mini cybersecurity project! This Python-based CLI app allows users to encrypt and decrypt messages using the Caesar Cipher algorithm which is one of the oldest and simplest encryption techniques.
+By the way, welcome to my mini cybersecurity project! 
+This Python-based CLI app allows users to encrypt and decrypt messages using the Caesar Cipher algorithm which is one of the oldest and simplest encryption techniques.
 
 ## Features
 
@@ -27,7 +29,10 @@ With a shift of 3, `A` becomes `D`, `B` becomes `E`, etc.
 ### 🖥️ Run the program:
 ```bash
 python3 caesar_cipher.py
-You'll be greeted with options to:
+```
+
+
+After that, you'll be greeted with options to:
 
 Encrypt a message
 
