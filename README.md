@@ -87,15 +87,16 @@ Also, the Caesar Cipher is not secure for real encryption needs and should never
 👤 Author
 
 Adekale Emmanuel Damilare (Prime)
-Cybersecurity enthusiast | Law Student | Tech Explorer
+Cybersecurity enthusiast | Law Student | Tech Explorer | 
 
-🔗 LinkedIn
+🔗 LinkedIn : https://www.linkedin.com/in/adekale-emmanuel-0b95a4326/
 
-🐦 @vybecisco — short link
+🐦 @vybecisco — https://x.com/vybecisco
 
-🐦 @OluwaloniPRIME — short link
+🐦 @OluwaloniPRIME: https://x.com/OluwaloniPRIME
 
-🐦 @Oluwaloni_lomo — short link
+🐦 @Oluwaloni_lomo — https://x.com/Oluwaloni_lomo
+
 📧 ayamprime01@gmail.com
 
 
@@ -106,7 +107,7 @@ If you love this tool, feel free to ⭐️ the repo and follow me for more cool 
 
 License
 
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under the MIT License: see the LICENSE file for details.
 
 
 ---
